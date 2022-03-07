@@ -35,7 +35,7 @@ https://ghashe.github.io/urban-octo-telegram/
 
 ##Executing program
 • Put the following URL on the address bar of any browser and press enter
-• https://ghashe.github.io/urban-octo-telegram/
+• https://ghashe.github.io/urban-octo-telegram/Develop/
 
 ##Help
 • If you need any help running the website, contact me using the contact information provided in the contact section
