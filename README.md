@@ -9,8 +9,11 @@ It is one of the code refactor challenge assignments (HTML CSS and Git) designed
     I improved an existing site's HTML and CSS code to make it more accessible without changing what it does and hosting it on Github.
 
 ##Getting Started
-Copy and paste the following url into any browser and press enter
-https://ghashe.github.io/urban-octo-telegram/
+Using the following link, you can clone the most recent version of repo into your machine
+git@github.com:ghashe/urban-octo-telegram.git
+
+Use the following link to open in your browser
+https://ghashe.github.io/urban-octo-telegram/Develop
 
 ## Table of contents
 
