@@ -24,7 +24,7 @@ The Horiseon Social Solution Services website code in this repository has been r
 to make it more accessible for people with disabilities. The Horiseon website can now be <br/>
 accessed by people with disabilities through assistive technologies such as video captions, <br/>
 screen readers, and braille keyboards. Adding this feature to the website will ensure that <br/>
-the website appears higher in search engine results, such as Google.<br/>
+the website appears higher in search engine results, such as Google.<br/> <br/>
 I improved functionality by modifying the codebase, which previously had some imperfections.<br/>
 Previously, the navigation bar links did not work, but now they will take users to the right <br/>
 place on the site. You can now see that semantic HTML elements are being used and are positioned <br/>
@@ -33,8 +33,6 @@ Social Solution Services". This code is now more efficient, and the website will
 for the long run.
 
 ## Website Preview
-
-<br/>
 
 ### Image of A Business Meeting Page
 
