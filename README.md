@@ -1,66 +1,119 @@
-# Code Refactor Starter Code
+# HTML CSS Git Challenge: Code Refactor🔥
 
-##Project Title
-Search Engine Optimization
+![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
-##Description
-It is one of the code refactor challenge assignments (HTML CSS and Git) designed to prepare us for a scenario that we’re likely to encounter as a web developer and to earn a certificate as full stack web developer from University of Minnesota Boot Camp by the year 2022
+## Table of Content
 
-    I improved an existing site's HTML and CSS code to make it more accessible without changing what it does and hosting it on Github.
+- [Description](#description)
+- [Website Preview](#website-preview)
 
-##Getting Started
-Using the following link, you can clone the most recent version of repo into your machine
-git@github.com:ghashe/urban-octo-telegram.git
+  - [Image of A Business Meeting Page](#image-of-a-business-meeting-page)
+  - [Image of Other Contents Page](#image-of-other-contents-page)
 
-Use the following link to open in your browser
-https://ghashe.github.io/urban-octo-telegram/Develop
+- [Features](#features)
+- [Installation and Deployment](#installation-and-deployment)
+- [Sections](#sections)
+- [Tools Used](#tools-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Questions](#questions)
 
-## Table of contents
+## Description
 
-- [Project Title]( #Project Title)
-- [Description ](#Description)
-- [Getting Started](#Getting Started)
-- [Dependencies] (#Dependencies)
-- [Installing](#Installing)
-- [Executing program](#Executing program)
-- [Help](#Help)
-- [Authors](#Authors)
-- [Version History](#Version History)
-- [License](#License)
-- [Acknowledgments](#Acknowledgments)
+The Horiseon Social Solution Services website code in this repository has been refactored <br/>
+to make it more accessible for people with disabilities. The Horiseon website can now be <br/>
+accessed by people with disabilities through assistive technologies such as video captions, <br/>
+screen readers, and braille keyboards. Adding this feature to the website will ensure that <br/>
+the website appears higher in search engine results, such as Google.<br/>
+I improved functionality by modifying the codebase, which previously had some imperfections.<br/>
+Previously, the navigation bar links did not work, but now they will take users to the right <br/>
+place on the site. You can now see that semantic HTML elements are being used and are positioned <br/>
+logically in the source code. The page has also been given a new title, which reads "Horiseon <br/>
+Social Solution Services". This code is now more efficient, and the website will be more durable <br/>
+for the long run.
 
-##Dependencies
-• Internet connection
-• Any web browser
+## Website Preview
 
-##Installing
-• You do not need to install the application
+<br/>
 
-##Executing program
-• Put the following URL on the address bar of any browser and press enter
-• https://ghashe.github.io/urban-octo-telegram/Develop/
+### Image of A Business Meeting Page
 
-##Help
-• If you need any help running the website, contact me using the contact information provided in the contact section
+![alt text](./assets/images/Image_of_a_business_meeting.png)
+<br/> <br/>
 
-##Authors
-• UMN Boot Camp
-• ABYOU GELETU emandaabyou@gmail.com
+### Image of Other Contents Page
 
-##Version History
-• Initial Release
+![alt text](./assets/images/other-contents.png)
+<br/> <br/>
 
-##License
-• http://legal.courses.bootcampspot.com/privacy-policy
+## Features
 
-##Acknowledgments
-• University of Minnesota Boot camp
-• GitHub Pages
-• Trebuchet MS
-• Lucida Sans Unicode
-• Lucida Grande
-• Gill Sans
-• Gill Sans MT
-• Calibri
-• Trebuchet MS
-• sans-serif
+# 📋
+
+⚡️ Accesible  
+⚡️ Efficient  
+⚡️ Easy to read  
+⚡️ Valid HTML5 & CSS3  
+⚡️ Easy to modify
+
+## Installation and Deployment
+
+# 📦
+
+- git clone the repo to your local so that you have the project
+- Modify the content of index.html
+- Add or remove images from assets/img/ directory as per your requirement
+- Make changes to the details of the projects folder according to your needs
+- Using Github Pages, you can build your own website.
+- To deploy your website, push the generated code to the master or main branch.
+
+You can clone the most recent version of repo into your machine
+
+- https://github.com/ghashe/urban-octo-telegram/
+
+Use the following link to open it in your browser
+
+- https://ghashe.github.io/urban-octo-telegram/
+
+## Sections
+
+# 📚
+
+    ✔️ Business Meeting Page
+    ✔️ Other Contents Page
+    ✔️ Footer
+
+## Tools Used
+
+# 🛠️
+
+    ✔️ HTM
+    ✔️ CSS
+
+## Contributing
+
+# 💡
+
+It would be great if you could contribute in any way
+
+- 👯 Git clone the repo to your local machine
+- 🔨🔨🔨 Develop your code
+- 🔃 Create a new pull request.
+
+## License
+
+    MIT license has been applied to this project
+
+## Questions
+
+If you have any questions, feel free to contact me via the following contact information:
+
+- Emain: emandaabyou@gmail.com
+- GitHub account: [ghashe](https://github.com/ghashe)
+- Linkedin: https://www.linkedin.com/in/abyou-geletu-5ba16622b
+
+---
+
+_This README has been generated by ❤ [Professional-README-generator](https://github.com/ghashe/professional-README-generator) © 2022_
+
+---
